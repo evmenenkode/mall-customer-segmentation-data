@@ -9,14 +9,14 @@ The project involves the following key steps:
 - Visualization: Use Plotly to create an interactive 3D scatter plot to visualize the customer segments.
 
 ## Data Preparation:
-Load and preprocess the customer dataset containing information about age, spending score, and annual income.
-Clustering with KMeans: Apply the KMeans clustering algorithm to segment customers into distinct groups.
-Visualization: Use Plotly to create an interactive 3D scatter plot to visualize the customer segments.
+- Load and preprocess the customer dataset containing information about age, spending score, and annual income.
+- Clustering with KMeans: Apply the KMeans clustering algorithm to segment customers into distinct groups.
+- Visualization: Use Plotly to create an interactive 3D scatter plot to visualize the customer segments.
 
 ## Files Included
-customer_segmentation.py: The main script that performs data loading, clustering, and visualization.
-data/mall.csv: The dataset containing customer information (age, spending score, and annual income).
-README.md: Project description and instructions.
+- customer_segmentation.py: The main script that performs data loading, clustering, and visualization.
+- data/mall.csv: The dataset containing customer information (age, spending score, and annual income).
+- README.md: Project description and instructions.
 
 ## Project Description
 This project aims to provide a practical example of customer segmentation using clustering techniques. By applying KMeans clustering, we can categorize customers into groups with similar characteristics, enabling businesses to tailor their marketing strategies effectively.
@@ -24,8 +24,8 @@ This project aims to provide a practical example of customer segmentation using 
 The resulting interactive 3D scatter plot offers an intuitive way to explore and understand the different customer segments, making it easier to identify patterns and insights.
 
 ## Future Improvements
-Data Enrichment: Include additional features such as purchase history, location, and customer preferences.
-Advanced Clustering: Experiment with other clustering algorithms like DBSCAN or hierarchical clustering.
-Automated Reporting: Generate automated reports summarizing the characteristics of each customer segment.
+- Data Enrichment: Include additional features such as purchase history, location, and customer preferences.
+- Advanced Clustering: Experiment with other clustering algorithms like DBSCAN or hierarchical clustering.
+- Automated Reporting: Generate automated reports summarizing the characteristics of each customer segment.
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any suggestions or improvements.
