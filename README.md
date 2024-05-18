@@ -4,6 +4,10 @@ This project demonstrates customer segmentation using the KMeans clustering algo
 ## Project Overview
 The project involves the following key steps:
 
+## 1.Data Preparation: Load and preprocess the customer dataset containing information about age, spending score, and annual income.
+## 2.Clustering with KMeans: Apply the KMeans clustering algorithm to segment customers into distinct groups.
+## 3.Visualization: Use Plotly to create an interactive 3D scatter plot to visualize the customer segments.
+
 ## Data Preparation:
 Load and preprocess the customer dataset containing information about age, spending score, and annual income.
 Clustering with KMeans: Apply the KMeans clustering algorithm to segment customers into distinct groups.
